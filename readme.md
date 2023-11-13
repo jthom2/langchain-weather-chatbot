@@ -30,7 +30,7 @@ Set up the necessary environment variables for OpenAI and DataForSeoAPI:
 These can be set in your environment or using a `.env` file.
 
 4. **Run the Application**
-Start the Streamlit app:
+- Start the Streamlit app:
     `streamlit run main.py`
 
 ## Usage
