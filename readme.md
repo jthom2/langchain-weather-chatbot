@@ -1,4 +1,7 @@
-![weather-chatbot-modified](https://github.com/jthom2/langchain-weather-chatbot/assets/134821369/9eb6d14f-49dd-43c9-a16d-3aaf398cf50e)
+<p align="center">
+  <img src="https://github.com/jthom2/langchain-weather-chatbot/assets/134821369/9eb6d14f-49dd-43c9-a16d-3aaf398cf50e" alt="Weather Chatbot">
+</p>
+
 
 # Weather Chatbot
 
