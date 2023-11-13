@@ -1,6 +1,6 @@
+![weather-chatbot-modified](https://github.com/jthom2/langchain-weather-chatbot/assets/134821369/9eb6d14f-49dd-43c9-a16d-3aaf398cf50e)
 
-#![weather-chatbot-modified](https://github.com/jthom2/langchain-weather-chatbot/assets/134821369/62343a57-0e9e-4b7d-a390-a9cb15e7f853)
- Weather Chatbot
+# Weather Chatbot
 
 ## Overview
 This project is a chatbot designed to provide weather updates to users. It's built using Langchain for the AI component and Streamlit for the web interface. The chatbot can process user queries about the weather and generate responses using external APIs.
