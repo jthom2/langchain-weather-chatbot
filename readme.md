@@ -14,11 +14,11 @@ This project is a chatbot designed to provide weather updates to users. It's bui
 Before installing, ensure you have Python installed on your system.
 
 1. **Clone the Repository**
-   - Clone this repository to your local machine using:
+- Clone this repository to your local machine using:
      `git clone https://github.com/jthom2/langchain-weather-chatbot`
 
 2. **Install Dependencies**
-Navigate to the cloned repository and install the required Python packages:
+- Navigate to the cloned repository and install the required Python packages:
     `pip install -r requirements.txt`
 
 3. **Setting Up Environment Variables**
