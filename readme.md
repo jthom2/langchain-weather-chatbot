@@ -1,8 +1,5 @@
-<div style="text-align: center">
-    <img src="https://github.com/jthom2/langchain-weather-chatbot/assets/134821369/9eb6d14f-49dd-43c9-a16d-3aaf398cf50e" alt="Weather Chatbot">
-</div>
 
-
+![chatbot-weather-landscape-modified](https://github.com/jthom2/langchain-weather-chatbot/assets/134821369/97ef902b-038b-4d59-8e91-dabc406af756)
 
 # Weather Chatbot
 
